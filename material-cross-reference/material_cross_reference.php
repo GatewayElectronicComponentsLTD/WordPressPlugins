@@ -316,7 +316,7 @@ CSS;
 
                 <thead>
                     <tr>
-                        <th>Manufacturer</th>
+                        <th>Manufacturerf</th>
                         <th>Material</th>
                         <th>Data Sheet</th>
                     </tr>
