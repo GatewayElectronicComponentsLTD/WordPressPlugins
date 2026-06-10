@@ -64,7 +64,7 @@ function gmc_render_page()
     }
 
     echo '<div class="wrap">';
-    echo '<h1 class="wp-heading-inline">Material Cross Referencej</h1>';
+    echo '<h1 class="wp-heading-inline">Material Cross Reference</h1>';
 
     echo '<a href="' .
         admin_url('admin.php?page=material-xref&action=add') .
